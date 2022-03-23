@@ -1,8 +1,10 @@
 # Assignment4
-#ScreenShots of Design:
+#ScreenShot of Design:
+
 ![Ekran görüntüsü 2022-03-23 104440](https://user-images.githubusercontent.com/101103934/159648559-44467fe2-1d79-424f-a91c-f24ef69af4d4.png)
 
-#ScreenShots of Code:
+#ScreenShot of Code:
+
 ![Ekran görüntüsü 2022-03-23 104540](https://user-images.githubusercontent.com/101103934/159648698-8f0188c8-408a-46d9-8836-067566fa7dc0.png)
 
 #ScreenShots of Emulator:
